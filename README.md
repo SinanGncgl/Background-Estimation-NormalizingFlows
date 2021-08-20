@@ -79,7 +79,8 @@ Main packages are as follows:
 * Python 3.6 or higher
 * Pandas
 * Seaborn
-* Numpy
+* numpy
+* sklearn
 
 
 <!-- USAGE EXAMPLES -->

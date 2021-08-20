@@ -53,8 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
-![Product Name Screen Shot][product-screenshot]
+<img src="images/project.jpeg" alt="Logo">
 
 Data-driven background estimation is crucial for many scientific searches, including searches for new phenomena in experimental datasets. Neural autoregressive flows (NAF) is a deep generative model that can be used for general transformations and is therefore attractive for this application. The MLBENDER project focuses on studying how to develop such transformations that can be learned and applied to a region of interest. In this project the main aim is implementing a Neural Autoregressive Flow (NAF) model to estimate the background distribution and apply it to a representative physics analysis searching for a resonance excess over a smooth background.
 
@@ -81,7 +80,7 @@ There's a requirement.txt file with the packages required to run this project. A
 <!-- USAGE EXAMPLES -->
 ## Dataset
 
-* First dataset is can be found at: [LHC Olympics R and D Anomaly Detection]() [LHC Dataset](https://zenodo.org/record/2629073).
+* Dataset can be found at: [LHC Dataset](https://zenodo.org/record/2629073).
 * You can work with the other datasets if you like, the normalizing flow models are suitable to work with any other datasets.
 
 

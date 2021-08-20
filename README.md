@@ -74,7 +74,12 @@ It is recommended to use conda or venv environments if you're going to run this 
 
 ### Installation
 
-There's a requirement.txt file with the packages required to run this project. Although it is worth noting that my local machine didn't have a GPU (I used colab), so if you have a GPU you might need to install some additional packages.
+Main packages are as follows:
+* PyTorch 2.x
+* Python 3.6 or higher
+* Pandas
+* Seaborn
+* Numpy
 
 
 <!-- USAGE EXAMPLES -->

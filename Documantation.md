@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/documantation.png">
+  <img src="images/doc.png">
 </div>
 
 Please see the jupyter notebook file [main.ipynb](main.ipynb) for a summary of paper, the implementation notes and our experimental results.
